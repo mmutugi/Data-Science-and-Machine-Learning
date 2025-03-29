@@ -37,8 +37,8 @@ Matatu_data.csv      # The data set used for the training
 - Can be enhanced with modificationa like multi-class support or different activation functions.
 
 ## Dataset used 
-Check out the `matatu_data.csv` for a real-world inspired binary classification task.
+Check out the `matatu_data.csv` for a real-world inspired binary classification task. This is a synthetic dataset I personally created to model the Matatus in Kenya as shown in the `ipynb` file.
 
 ---
-### Authored by Mark Munyi for CMOR 438 taught by Randy R. Davila, Ph.D.
+Authored by `Mark Munyi` for CMOR 438 taught by `Randy R. Davila, Ph.D.`
 
