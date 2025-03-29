@@ -5,7 +5,7 @@ A simple, customizable Perceptron algorithm for binary classification, built fro
 ##  Features
 - Binary classification using Perceptron learning rule
 - Configurable learning rate and number of epochs
-- Built-in training progress bar (`tqdm`)
+- Built-in training progress bar
 - Decision boundary visualization for 2D data
 - Model performance evaluation with percentages
 
@@ -23,11 +23,6 @@ Tqdm
 Pandas
 mlxtend.plotting
 ```
-
-### Usage
-```Can just be run from the notebook.
-```
-
 ## File Structure
 ```
 perceptron.ipynb     # The main Perceptron class/file
@@ -42,8 +37,8 @@ Matatu_data.csv      # The data set used for the training
 - Can be enhanced with modificationa like multi-class support or different activation functions.
 
 ## Dataset used 
-Check out the [Matatu_data.csv]for a real-world inspired binary classification task.
+Check out the `matatu_data.csv` for a real-world inspired binary classification task.
 
 ---
-Authored by Mark Munyi for CMOR 438 taught by Randy R. Davila, Ph.D.
+### Authored by Mark Munyi for CMOR 438 taught by Randy R. Davila, Ph.D.
 
