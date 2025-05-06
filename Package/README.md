@@ -26,7 +26,7 @@ The package includes reusable classes, visualization methods, and example notebo
 ## Project Structure 
 
 ```yaml
-Perceptron_LogReg_Package/
+Package/
 ├── example_usage/
 │   └── usage.ipynb               # Example notebook demonstrating package usage
 ├── ml_packages/
