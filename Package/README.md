@@ -42,9 +42,10 @@ Package/
 ```
 
 ### Installation
-git clone <this repository>
-cd Package
-pip install -e . or pip install ml-packages
+- git clone <this repository>
+- cd Package
+- pip install -e . 
+- or pip install ml-packages
 
 ### Requires
 numpy
