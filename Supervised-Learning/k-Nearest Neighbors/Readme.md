@@ -31,9 +31,11 @@ mlxtend.plotting (Optional, for decision boundary plots)
 
 ### File structure
 
-knearest.ipynb     # Jupyter Notebook with KNN implementation and analysis
-Readme.md              # This file
-data.csv          # Placeholder for the dataset used
-*.png                  # Images used in the demonstration
+- knearest.ipynb     # Jupyter Notebook with KNN implementation and analysis
+- Readme.md              # This file
+- data.csv          # Placeholder for the dataset used
+- *.png                  # Images used in the demonstration
+
+In this book, I use a Breast Cancer dataset that is publicly available on the web and kaggle.
 
 Authored by Mark Munyi for CMOR 438 taught by Randy R. Davila, Ph.D
