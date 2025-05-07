@@ -44,6 +44,8 @@ def test_fit_predict(sample_data):
         A tuple (X, y) provided by the `sample_data` Pytest fixture.
         X is the feature matrix, and y is the target labels.
     """
+
+    ## Just type pytest and hit enter to run all tests on the terminal.
     X, y = sample_data
     clf = LogisticRegression()
     clf.train(X, y, alpha=0.01, epochs=100)
