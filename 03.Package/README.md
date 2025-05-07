@@ -36,7 +36,7 @@ Package/
 │   ├── test_perceptron.py        # Unit tests for Perceptron
 │   └── test_logistic_regression.py # Unit tests for Logistic Regression
 ├── requirements.txt              # Project dependencies
-├── README.md                     # This documentation
+├── readme.md                     # This documentation
 ├── setup.py                      # Setup script for pip install
 └── .gitignore                    # Excludes unnecessary files from git
 ```
@@ -55,4 +55,3 @@ pytest
 
 ### Authored:
 Mark Munyi
-
