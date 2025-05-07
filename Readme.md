@@ -1,4 +1,4 @@
-This is a repo with codes for INDE 577. It covers concepts from introductory phases up to advanced use cases of Python In Machine Learning and Data Analytics. Authored By Mark Munyi
+This is a repo with codes for CMOR 438. It covers concepts from introductory phases up to advanced use cases of Python In Machine Learning and Data Analytics. Authored By Mark Munyi
 
 ## Course Instructor 
 
