@@ -35,4 +35,4 @@ logistic_regression.ipynb  # The main implimentation
 *.png                              # Images used for illustrative purposes
 ```
 
-Authored by Mark Munyi for CMOR 438 by Randy Davila, Ph.D 
+Authored by `Mark Munyi`

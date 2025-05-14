@@ -30,6 +30,6 @@ This Python script demonstrates a comparative analysis between the Perceptron al
         * Instantiates another `LogisticRegression` model.
         * Trains it using Binary Cross-Entropy as the loss function (more standard for classification).
         * Predicts on the test set and prints its accuracy.
-        * Calls `plot_cost_function` to visualize its training cost.
+        * Touches `plot_cost_function` to visualize its training cost.
 
 In essence, the script sets up a simple binary classification problem, trains three different model configurations (Perceptron, Logistic Regression with MSE, Logistic Regression with Cross-Entropy), evaluates their accuracies, and prepares for visualizing their decision boundaries and learning curves.

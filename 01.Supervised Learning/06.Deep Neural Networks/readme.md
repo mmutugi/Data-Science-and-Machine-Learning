@@ -39,4 +39,4 @@ README.md                    # This file
 *.png                        # Images used in the description
 
 ```
-Authored by `Mark Munyi` for CMOR 438 taught by `Randy Davila, Ph.D.`
+Authored by `Mark Munyi`

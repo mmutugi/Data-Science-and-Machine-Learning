@@ -32,4 +32,4 @@ README.md                            # This file
 .png #images used in the description
 .csv # csv files created by the implentation of the algorithm. 
 ```
-Authored by Mark Munyi for CMOR 438 taught by Randy Davila
+Authored by `Mark Munyi`

@@ -38,4 +38,4 @@ mlxtend.plotting (Optional, for decision boundary plots)
 
 In this book, I use a Breast Cancer dataset that is publicly available on the web and kaggle.
 
-Authored by Mark Munyi for CMOR 438 taught by Randy R. Davila, Ph.D
+Authored by `Mark Munyi`

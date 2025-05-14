@@ -37,4 +37,4 @@ readme.md  # THis file
 matatu_data.csv # Synthetic Data set about Matatus in Kenya
 .png #Image files used in the notebook
 ```
-Authored by `Mark Munyi` for CMOR 438 taught by Randy Davila, Ph.D.
+Authored by `Mark Munyi`
