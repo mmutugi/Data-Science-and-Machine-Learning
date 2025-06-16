@@ -21,6 +21,18 @@ Fully authored By `Mark Munyi`: `mark.munyi@rice.edu`
 
 Acknowledged support from Randy Davilla, Ph.D
 
+## Need
+```bash
+# Essential Libraries
+numpy
+matplotlib (for plotting loss, accuracy, etc.)
+pandas (for data loading and manipulation
+TensorFlow
+Keras
+Scikit-learn
+Pytest
+
+```
 ## Repo description
 Each sub-repository is named by an algorithm name, and it contains a .ipynb file which illustrates and impliments algorithms/applications/visualizations, a README file, and sub-repositories of dataset/images files (if applicable).
 
@@ -38,7 +50,6 @@ Programming language used in this repository is Python. There is also a custom m
     - Pandas
     - Os(not implemented)
     - Re(not implemented)
-
 
 - Supervised learning
     - Perceptron
@@ -58,4 +69,5 @@ Programming language used in this repository is Python. There is also a custom m
     - Sample usage with real DataSet
 
 ## A julia version of the same is in preparation and will be up soon. Stay locked in.
+
 
