@@ -14,7 +14,7 @@
 
 </div>
 
-This is a repo with codes covering concepts from introductory phases up to advanced use cases of Python In Machine Learning and Data Analytics, including back propagation and regression. Authored By Mark Munyi
+This is a repo with codes covering concepts from introductory phases up to advanced use cases of Python In Machine Learning and Data Analytics, including back propagation and regression. Fully authored By `Mark Munyi`: `mark.munyi@rice.edu`
 
 ## Repo description
 Each sub-repository is named by an algorithm name, and it contains a .ipynb file which illustrates and impliments algorithms/applications/visualizations, a README file, and sub-repositories of dataset/images files (if applicable).
