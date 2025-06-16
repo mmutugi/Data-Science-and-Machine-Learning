@@ -39,3 +39,5 @@ Programming language used in this repository is Python. There is also a custom m
     - Testing with Pytest
     - Sample usage with real DataSet
 
+## A julia version of the same is in preparation and will be up soon. Stay locked in.
+
