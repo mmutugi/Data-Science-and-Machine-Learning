@@ -36,9 +36,8 @@ Programming language used in this repository is Python. There is also a custom m
     - Numpy
     - Matplotlib
     - Pandas
-    (not still implemented)
-    - Os
-    - Re 
+    - Os(not implemented)
+    - Re(not implemented)
 
 
 - Supervised learning
