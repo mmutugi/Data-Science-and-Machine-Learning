@@ -1,3 +1,19 @@
+<div align="center">
+
+# <span style="font-size: 2em;">Welcome to Data Science and Machine Learning!</span>
+
+</div>
+
+<p align="center">
+  <img src="data.jpeg" alt="Header" />
+</p>
+
+<div align="center">
+
+# <span style="font-size: em;">Brace for Impact!</span>
+
+</div>
+
 This is a repo with codes covering concepts from introductory phases up to advanced use cases of Python In Machine Learning and Data Analytics, including back propagation and regression. Authored By Mark Munyi
 
 ## Repo description
