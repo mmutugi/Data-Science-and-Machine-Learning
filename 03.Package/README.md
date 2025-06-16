@@ -1,3 +1,19 @@
+<div align="center">
+
+# <span style="font-size: 2em;">Welcome to a Custom simple package!</span>
+
+</div>
+
+<p align="center">
+  <img src="package.jpg" alt="Header" />
+</p>
+
+<div align="center">
+
+# <span style="font-size: em;">Roll it!</span>
+
+</div>
+
 #  Machine Learning Python Package
 
 A Python package demonstrating:
