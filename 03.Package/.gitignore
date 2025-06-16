@@ -15,7 +15,7 @@ dist/
 .vscode/
 .idea/
 
-# macOS metadata
+# macOS metadata (Ignore if not using macOS)
 .DS_Store
 
 # Python virtual environments
